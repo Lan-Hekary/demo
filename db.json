@@ -14,28 +14,40 @@
   "emptyA": [],
   "Devices": [
     {
+      "id": "0",
+      "name": "Upper",
+      "value": 19,
+      "state": true
+    },
+    {
       "id": "1",
-      "DevNo": 1,
-      "DevName": "Main Entrance",
-      "Status": false
+      "name": "Lower",
+      "value": 4,
+      "state": true
     },
     {
       "id": "2",
-      "DevNo": 2,
-      "DevName": "Living Room",
-      "Status": false
+      "name": "Mid",
+      "value": 14,
+      "state": true
     },
     {
       "id": "3",
-      "DevNo": 3,
-      "DevName": "Bed Room",
-      "Status": false
+      "name": "Seat",
+      "value": 8,
+      "state": true
     },
     {
       "id": "4",
-      "DevNo": 4,
-      "DevName": "Kitchen",
-      "Status": false
+      "name": "Upper",
+      "value": 17,
+      "state": true
+    },
+    {
+      "id": "5",
+      "name": "Lower",
+      "value": 14,
+      "state": true
     }
   ]
 }
