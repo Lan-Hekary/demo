@@ -35,7 +35,7 @@
       "id": "3",
       "name": "Seat",
       "value": 8,
-      "state": true
+      "state": false
     },
     {
       "id": "4",
@@ -46,7 +46,7 @@
     {
       "id": "5",
       "name": "Lower",
-      "value": 14,
+      "value": 0,
       "state": true
     }
   ]
