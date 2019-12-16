@@ -48,6 +48,78 @@
       "name": "Lower",
       "value": 0,
       "state": true
+    },
+    {
+      "id": "6",
+      "name": "Upper",
+      "value": 19,
+      "state": true
+    },
+    {
+      "id": "7",
+      "name": "Lower",
+      "value": 4,
+      "state": true
+    },
+    {
+      "id": "8",
+      "name": "Mid",
+      "value": 14,
+      "state": true
+    },
+    {
+      "id": "9",
+      "name": "Seat",
+      "value": 8,
+      "state": false
+    },
+    {
+      "id": "10",
+      "name": "Upper",
+      "value": 17,
+      "state": true
+    },
+    {
+      "id": "11",
+      "name": "Lower",
+      "value": 0,
+      "state": true
+    },
+    {
+      "id": "12",
+      "name": "Upper",
+      "value": 19,
+      "state": true
+    },
+    {
+      "id": "13",
+      "name": "Lower",
+      "value": 4,
+      "state": true
+    },
+    {
+      "id": "14",
+      "name": "Mid",
+      "value": 14,
+      "state": true
+    },
+    {
+      "id": "15",
+      "name": "Seat",
+      "value": 8,
+      "state": false
+    },
+    {
+      "id": "16",
+      "name": "Upper",
+      "value": 17,
+      "state": true
+    },
+    {
+      "id": "17",
+      "name": "Lower",
+      "value": 0,
+      "state": true
     }
   ]
 }
