@@ -132,46 +132,6 @@
       "state": false,
       "id": "23",
       "name": "Dev24"
-    },
-    {
-      "state": true,
-      "id": "24",
-      "name": "Dev25"
-    },
-    {
-      "state": false,
-      "id": "25",
-      "name": "Dev26"
-    },
-    {
-      "state": false,
-      "id": "26",
-      "name": "Dev27"
-    },
-    {
-      "state": false,
-      "id": "27",
-      "name": "Dev28"
-    },
-    {
-      "state": false,
-      "id": "28",
-      "name": "Dev29"
-    },
-    {
-      "state": false,
-      "id": "29",
-      "name": "Dev30"
-    },
-    {
-      "state": false,
-      "id": "30",
-      "name": "Dev31"
-    },
-    {
-      "state": true,
-      "id": "31",
-      "name": "Dev32"
     }
   ]
 }
