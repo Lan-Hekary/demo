@@ -14,112 +14,164 @@
   "emptyA": [],
   "Devices": [
     {
+      "state": true,
       "id": "0",
-      "name": "Upper",
-      "value": 19,
-      "state": true
+      "name": "Dev1"
     },
     {
+      "state": false,
       "id": "1",
-      "name": "Lower",
-      "value": 4,
-      "state": true
+      "name": "Dev2"
     },
     {
+      "state": false,
       "id": "2",
-      "name": "Mid",
-      "value": 14,
-      "state": true
+      "name": "Dev3"
     },
     {
+      "state": false,
       "id": "3",
-      "name": "Seat",
-      "value": 8,
-      "state": false
+      "name": "Dev4"
     },
     {
+      "state": false,
       "id": "4",
-      "name": "Upper",
-      "value": 17,
-      "state": true
+      "name": "Dev5"
     },
     {
+      "state": true,
       "id": "5",
-      "name": "Lower",
-      "value": 0,
-      "state": true
+      "name": "Dev6"
     },
     {
+      "state": false,
       "id": "6",
-      "name": "Upper",
-      "value": 19,
-      "state": true
+      "name": "Dev7"
     },
     {
+      "state": false,
       "id": "7",
-      "name": "Lower",
-      "value": 4,
-      "state": true
+      "name": "Dev8"
     },
     {
+      "state": false,
       "id": "8",
-      "name": "Mid",
-      "value": 14,
-      "state": true
+      "name": "Dev9"
     },
     {
+      "state": false,
       "id": "9",
-      "name": "Seat",
-      "value": 8,
-      "state": false
+      "name": "Dev10"
     },
     {
+      "state": true,
       "id": "10",
-      "name": "Upper",
-      "value": 17,
-      "state": true
+      "name": "Dev11"
     },
     {
+      "state": false,
       "id": "11",
-      "name": "Lower",
-      "value": 0,
-      "state": true
+      "name": "Dev12"
     },
     {
+      "state": false,
       "id": "12",
-      "name": "Upper",
-      "value": 19,
-      "state": true
+      "name": "Dev13"
     },
     {
+      "state": true,
       "id": "13",
-      "name": "Lower",
-      "value": 4,
-      "state": true
+      "name": "Dev14"
     },
     {
+      "state": false,
       "id": "14",
-      "name": "Mid",
-      "value": 14,
-      "state": true
+      "name": "Dev15"
     },
     {
+      "state": true,
       "id": "15",
-      "name": "Seat",
-      "value": 8,
-      "state": false
+      "name": "Dev16"
     },
     {
+      "state": false,
       "id": "16",
-      "name": "Upper",
-      "value": 17,
-      "state": true
+      "name": "Dev17"
     },
     {
+      "state": false,
       "id": "17",
-      "name": "Lower",
-      "value": 0,
-      "state": true
+      "name": "Dev18"
+    },
+    {
+      "state": true,
+      "id": "18",
+      "name": "Dev19"
+    },
+    {
+      "state": false,
+      "id": "19",
+      "name": "Dev20"
+    },
+    {
+      "state": false,
+      "id": "20",
+      "name": "Dev21"
+    },
+    {
+      "state": true,
+      "id": "21",
+      "name": "Dev22"
+    },
+    {
+      "state": false,
+      "id": "22",
+      "name": "Dev23"
+    },
+    {
+      "state": false,
+      "id": "23",
+      "name": "Dev24"
+    },
+    {
+      "state": true,
+      "id": "24",
+      "name": "Dev25"
+    },
+    {
+      "state": false,
+      "id": "25",
+      "name": "Dev26"
+    },
+    {
+      "state": false,
+      "id": "26",
+      "name": "Dev27"
+    },
+    {
+      "state": false,
+      "id": "27",
+      "name": "Dev28"
+    },
+    {
+      "state": false,
+      "id": "28",
+      "name": "Dev29"
+    },
+    {
+      "state": false,
+      "id": "29",
+      "name": "Dev30"
+    },
+    {
+      "state": false,
+      "id": "30",
+      "name": "Dev31"
+    },
+    {
+      "state": true,
+      "id": "31",
+      "name": "Dev32"
     }
   ]
 }
