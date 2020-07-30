@@ -12,6 +12,41 @@
   },
   "emptyO": {},
   "emptyA": [],
+  "DevicesA": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "type": 0
+    },
+    {
+      "value": 19,
+      "id": "4",
+      "name": "Dev5",
+      "type": 2
+    },
+    {
+      "type": 0
+    },
+    {
+      "type": 0
+    },
+    {
+      "type": 0
+    },
+    {
+      "value": 7,
+      "id": "8",
+      "name": "Dev9",
+      "type": 2
+    }
+  ],
   "Devices": [
     {
       "state": true,
