@@ -14,13 +14,22 @@
   "emptyA": [],
   "DevicesA": [
     {
-      "id": "0"
+      "value": 1,
+      "id": "0",
+      "name": "Dev1",
+      "type": 1
     },
     {
-      "id": "1"
+      "value": 0,
+      "id": "1",
+      "name": "Dev2",
+      "type": 1
     },
     {
-      "id": "2"
+      "value": 1,
+      "id": "2",
+      "name": "Dev3",
+      "type": 1
     },
     {
       "type": 0
