@@ -12,10 +12,16 @@
   },
   "lightMotion": [
     {
+      "type": 0
+    },
+    {
       "value": 0,
       "id": "0",
       "name": "Up",
       "type": 1
+    },
+    {
+      "type": 0
     },
     {
       "value": 0,
@@ -24,10 +30,16 @@
       "type": 2
     },
     {
+      "type": 0
+    },
+    {
       "value": 0,
       "id": "2",
       "name": "Right",
       "type": 2
+    },
+    {
+      "type": 0
     },
     {
       "value": 0,
