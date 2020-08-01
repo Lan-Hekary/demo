@@ -12,6 +12,32 @@
   },
   "emptyO": {},
   "emptyA": [],
+  "lightMotion": [
+    {
+      "value": 0,
+      "id": "0",
+      "name": "Up",
+      "type": 1
+    },
+    {
+      "value": 0,
+      "id": "1",
+      "name": "Left",
+      "type": 2
+    },
+    {
+      "value": 0,
+      "id": "2",
+      "name": "Right",
+      "type": 2
+    },
+    {
+      "value": 0,
+      "id": "3",
+      "name": "Down",
+      "type": 2
+    }
+  ],
   "DevicesA": [
     {
       "value": 1,
