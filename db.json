@@ -27,7 +27,7 @@
       "value": 0,
       "id": "1",
       "name": "Left",
-      "type": 2
+      "type": 1
     },
     {
       "type": 0
@@ -36,7 +36,7 @@
       "value": 0,
       "id": "2",
       "name": "Right",
-      "type": 2
+      "type": 1
     },
     {
       "type": 0
